@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+azure-identity
+azure-mgmt-network
+python-jose[cryptography]
+PyJWT
+pydantic
